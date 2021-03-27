@@ -3,7 +3,7 @@ Email: terryliu.analyst@gmail.com
 LinkedIn: https://www.linkedin.com/in/terry-liu-3717556b/  
 
 
-##EDUCATION  
+### EDUCATION  
 **Master of Data Science and Analytics**              2020.09-2021.12(expected)  
 The Hong Kong Polytechnic University                  Hung Hom, Hong Kong  
 
@@ -12,7 +12,7 @@ Wilfird Laurier University                            Waterloo, Ontario, Canada
 
 
 
-##QUALIFICATION  
+### QUALIFICATION  
 •	Over 3 years professional experience in data cleansing, analytics and quantitative modelling in Python, SQL, VBA  
 •	Knowledgeable in probability, statistics, hypothesis testing and A/B testing  
 •	Expertise in machine learning algorithms: linear regression, logistic regression, decision tree, random forest, SVM, Naïve Bays, kNN, K-Means, and Dimensionality Reduction Algorithms  
@@ -22,7 +22,7 @@ Wilfird Laurier University                            Waterloo, Ontario, Canada
 
 
 
-###WOKR EXPERIENCE  
+### WOKR EXPERIENCE  
 **Business Analyst**                                  2017.05-2021.03  
 [Neo Biz Solutions Inc.](https://www.neobizsolutions.ca/)                              Toronto, Ontario  
 •	Liaised between operation team and IT department, to collect business requirements, organize requirements, initiate periodic meetings to ensure both deadlines and requirements are met  
@@ -36,7 +36,7 @@ Wilfird Laurier University                            Waterloo, Ontario, Canada
 
 
 
-###PROJECT EXPERIENCE  
+### PROJECT EXPERIENCE  
 **Customer Loyalty Analysis: DSN Telecom Customer Churn**  
 o	Analyze customer loyalty in 3 dimensions: demographics, service subscriptions and account information, then use supervised learning to predict customer churn based on these features  
 o	Load CSV file, identify data and perform data manipulation on categorical data for exploratory data analysis, modelling, and visualize data in pie charts, percentage stack bar charts, side by side histogram  
