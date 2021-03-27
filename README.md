@@ -1,14 +1,14 @@
 #### Terry Fan Liu
-Email:terryliu.analyst@gmail.com
-[LinkedIn](https://www.linkedin.com/in/terry-liu-3717556b/)
+Email: terryliu.analyst@gmail.com  
+LinkedIn: https://www.linkedin.com/in/terry-liu-3717556b/  
 
 
-###EDUCATION
-**Master of Data Science and Analytics**              2020.09-2021.12(expected)
-The Hong Kong Polytechnic University                  Hung Hom, Hong Kong
+###EDUCATION  
+**Master of Data Science and Analytics**              2020.09-2021.12(expected)  
+The Hong Kong Polytechnic University                  Hung Hom, Hong Kong  
 
-**Bachelor of Financial Mathematics**                 2012.05-2016.06
-Wilfird Laurier University                            Waterloo, Ontario, Canada
+**Bachelor of Financial Mathematics**                 2012.05-2016.06  
+Wilfird Laurier University                            Waterloo, Ontario, Canada  
 
 
 
