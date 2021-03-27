@@ -2,7 +2,7 @@
 Email: terryliu.analyst@gmail.com  
 LinkedIn: [https://www.linkedin.com/in/terry-liu-3717556b/](https://www.linkedin.com/in/terry-liu-3717556b/)
 
-
+<pre>
 ### EDUCATION  
 **Master of Data Science and Analytics**              2020.09-2021.12(expected)  
 The Hong Kong Polytechnic University                  Hung Hom, Hong Kong  
@@ -49,3 +49,4 @@ o	Perform data identification, check missing values, remove duplicate values, an
 o	Create TfidfVectorizer using defined tokenizer, remove stop words, then fit and transform on tokenized movie plot to generate tfidf matrix, and introduce cosine similarity to calculate pairwise similarity scores on each movie plot  
 o	Get input of movie title from user, locate row number in similarity scores matrix, rank elements on the row to get top 10 most similar movies  
 
+</pre>
