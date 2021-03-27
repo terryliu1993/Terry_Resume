@@ -1,4 +1,4 @@
-######   Terry Fan Liu
+#### TERRY FAN LIU
 Email: terryliu.analyst@gmail.com  
 LinkedIn: [https://www.linkedin.com/in/terry-liu-3717556b/](https://www.linkedin.com/in/terry-liu-3717556b/)
 
