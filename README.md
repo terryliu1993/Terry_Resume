@@ -1,4 +1,4 @@
-###### Terry Fan Liu
+######   Terry Fan Liu
 Email: terryliu.analyst@gmail.com  
 LinkedIn: [https://www.linkedin.com/in/terry-liu-3717556b/](https://www.linkedin.com/in/terry-liu-3717556b/)
 
@@ -22,7 +22,7 @@ Wilfird Laurier University&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 ### WOKR EXPERIENCE  
-**Business Analyst**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2017.05-2021.03  
+**Business Analyst**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2017.05-2021.03  
 Neo Biz Solutions Inc. | [https://www.neobizsolutions.ca/](https://www.neobizsolutions.ca/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Toronto, Ontario  
 •	Liaised between operation team and IT department, to collect business requirements, organize requirements, initiate periodic meetings to ensure both deadlines and requirements are met  
 •	Scoped analytic solutions out of vague business problems by collecting project requirement, determining metrics, removing ambiguous items and nailing down details  
