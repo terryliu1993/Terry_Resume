@@ -4,10 +4,10 @@ LinkedIn: [https://www.linkedin.com/in/terry-liu-3717556b/](https://www.linkedin
 
 ### EDUCATION  
 **Master of Data Science and Analytics**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2020.09-2021.12(expected)  
-The Hong Kong Polytechnic University                  Hung Hom, Hong Kong  
+The Hong Kong Polytechnic University&nbsp;&nbsp;&nbsp;&nbsp;Hung Hom, Hong Kong  
 
-**Bachelor of Financial Mathematics**                 2012.05-2016.06  
-Wilfird Laurier University                            Waterloo, Ontario, Canada  
+**Bachelor of Financial Mathematics**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2012.05-2016.06  
+Wilfird Laurier University&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Waterloo, Ontario, Canada  
 
 
 
