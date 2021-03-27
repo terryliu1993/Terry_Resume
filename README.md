@@ -3,11 +3,11 @@ Email: terryliu.analyst@gmail.com
 LinkedIn: [https://www.linkedin.com/in/terry-liu-3717556b/](https://www.linkedin.com/in/terry-liu-3717556b/)
 
 ### EDUCATION  
-**Master of Data Science and Analytics**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2020.09-2021.12(expected)  
+**Master of Data Science and Analytics**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2020.09-2021.12(expected)  
 The Hong Kong Polytechnic University&nbsp;&nbsp;&nbsp;&nbsp;Hung Hom, Hong Kong  
 
 **Bachelor of Financial Mathematics**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2012.05-2016.06  
-Wilfird Laurier University&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Waterloo, Ontario, Canada  
+Wilfird Laurier University&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Waterloo, Ontario, Canada  
 
 
 
